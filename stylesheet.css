@@ -2,6 +2,10 @@ body {
     Background-color: pink;
 }
 
-h1 {
+div {
+    color: green;
+}
+
+#second {
     color: green;
 }
