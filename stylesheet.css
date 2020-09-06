@@ -1,21 +1,16 @@
 div.d0 {
     font-size: 25px;
+    color: green
 }
 
 div.d1 {
     font-size: 20px;
+    color: LightGreen
 }
 
 div.d2 {
     font-size: 18px;
-}
-
-h1 {
-    color: green;
-}
-
-h2 {
-    color: green;
+    color: forestgreen
 }
 
 body {
