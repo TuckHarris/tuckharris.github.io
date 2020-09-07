@@ -23,3 +23,11 @@ a:link {
 a:visited {
     color: SandyBrown;
 }
+
+a:hover {
+    color: orange;
+}
+
+a:active {
+    color: chocolate;
+}
