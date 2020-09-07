@@ -39,3 +39,9 @@ body {
 img {
     width:auto;
 }
+
+@media screen and (max-width: 600px) {
+    div.d0 {
+      color: forestgreen;
+    }
+}
