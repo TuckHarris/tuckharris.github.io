@@ -17,6 +17,9 @@ body {
     Background-color:LightBlue;
 }
 
-a {
+a:link {
     color: navajowhite;
+}
+a:visited {
+    color: SandyBrown;
 }
