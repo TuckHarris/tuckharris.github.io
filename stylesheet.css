@@ -1,6 +1,6 @@
 div.d0 {
     font-size: 25px;
-    color: lightsalmon;
+    color: navajowhite;
 }
 
 div.d1 {
@@ -17,3 +17,6 @@ body {
     Background-color:LightBlue;
 }
 
+a {
+    color: navajowhite;
+}
